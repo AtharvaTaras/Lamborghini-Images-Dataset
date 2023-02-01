@@ -1,6 +1,7 @@
 # Lamborghini-Images-Dataset
 A dataset of cars made by Lamborghini  
 Contains about 5000 images (100 images for each model/sub-model)  
+Approximate Size - 3.32 GB  
 
 > This dataset is not 100% accurate or clean, and does contain duplicates.
 
