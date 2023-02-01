@@ -2,6 +2,8 @@
 A dataset of cars made by Lamborghini  
 Contains about 5000 images (100 images for each model/sub-model)  
 
+> This dataset is not 100% accurate or clean, and does contain duplicates.
+
 I have not included all Lamborghini models, just the newer ones, and some concept cars (I specifically wanted only the moder ones with those signature wedge like aggressive design)  
 
 ### Included Models
